@@ -1,0 +1,6 @@
+name: p4
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: pulumi for reserving static ip
